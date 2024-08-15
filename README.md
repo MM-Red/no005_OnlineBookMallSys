@@ -1,22 +1,20 @@
 <p><h1 align="center">基于微信小程序的网上书城系统</h1></p>
 
 <p> 获取sql文件 QQ: 3645296857 QQ群: 978300347 </p>
-<b> 需要视频演示可联系上述QQ，私发视频链接 </b>
-
-<p> [个人站点: mzoo源码网](https://mzoocodes.com/)</p>
+<h4> 需要视频演示可联系上述QQ，私发视频链接 </h4>
+<p> 获取更多高质量源码，请访问：[mzoo源码网](https://mzoocodes.com/)</p>
 
 ## 简介
 
 > 本代码来源于网络,仅供学习参考使用!
 >
-> 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
+> <b style="color: dodgerblue"> 提供1.远程部署/2.修改代码/3.定制程序/4.文档指导/5.框架代码讲解、技术解答、代码讲解等服务 </b>
 >
-> 前端首页:  http://localhost:8081/
+> 前端首页:  http://localhost:8080/ssm7rx43/admin/dist/index.html#/login
 >
 > 管理员: admin 密码: admin
 >
 > 学生：zhangsan 密码: 123
->
 
 ## 项目介绍
 
@@ -56,6 +54,7 @@
 
 
 ## 运行截图
+
 ![](screenshot/1.png)
 
 ![](screenshot/2.png)
